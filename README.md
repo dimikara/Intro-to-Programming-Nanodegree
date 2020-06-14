@@ -20,7 +20,7 @@ For this project, I built a simple version of an old-fashioned **text-based adve
 
 GitHub repository: <a href="https://github.com/dimikara/Adventure_Game" target="_blank">https://github.com/dimikara/Adventure_Game</a>
 
-![Screenshot2](./img/Adventure_game_screenshot.PNG "Sceenshot of the introductory text")
+![Screenshot2](./img/Adventure_Game.gif "The introductory text")
 
 ___
 
