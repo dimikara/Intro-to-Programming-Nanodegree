@@ -2,7 +2,7 @@
 
 A repository for the projects that I have done during my Udacity <a href="https://confirm.udacity.com/AQRHZWAD" target="_blank">**Intro to Programming Nanodegree**</a>.
 
-For the syllabus, click <a href=".syllabus-nd000-default-en-us.pdf" target="_blank">here</a>.  
+For the syllabus, click <a href="syllabus-nd000-default-en-us.pdf" target="_blank">here</a>.  
 ___
 
 ## **Project 1:** <a href="https://codepen.io/dimitraK/full/rprEzy/" target="_blank">**Animal Trade Card**</a>
