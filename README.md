@@ -1,3 +1,5 @@
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+
 # **Intro to Programming Nanodegree (Udacity, 2020)**
 
 A repository for the projects that I have done during my Udacity <a href="https://confirm.udacity.com/AQRHZWAD" target="_blank">**Intro to Programming Nanodegree**</a>.
